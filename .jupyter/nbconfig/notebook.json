@@ -1,0 +1,9 @@
+{
+  "load_extensions": {
+    "latex_envs/latex_envs": true,
+    "qtconsole/qtconsole": true,
+    "nbextensions_configurator/config_menu/main": true,
+    "skill/skill": true,
+    "contrib_nbextensions_help_item/main": true
+  }
+}
